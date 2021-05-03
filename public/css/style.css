@@ -1626,6 +1626,12 @@ body.offcanvas .colorlib-nav-toggle {
     border: 2px solid #2c98f0;
 }
 
+.btn-primary1 {
+    background: #2c98f0;
+    color: #fff;
+    border: 2px solid #2c98f0;
+}
+
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active {
