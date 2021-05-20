@@ -7,14 +7,18 @@ import {
   CarouselCaption
 } from 'reactstrap';
 import 'bootstrap/dist/css/bootstrap.min.css'
+<div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+  <span className="heading-meta">My Work</span>
+  <h2 className="colorlib-heading animate-box">Some of my projectss</h2>
+</div>
 
 const items = [
-  
+
   {
     src: ('images/16.png'),
     altText: '',
     caption: ''
-    
+
   },
   {
     src: ('images/2.png'),
@@ -22,109 +26,109 @@ const items = [
     caption: ''
   },
   {
-    src:  ('images/3.png'),
+    src: ('images/3.png'),
     altText: '',
     caption: ''
   },
   {
-    src:  ('images/1.png'),
+    src: ('images/1.png'),
     altText: '',
     caption: ''
   },
   {
-    src:  ('images/5.png'),
+    src: ('images/5.png'),
     altText: '',
     caption: ''
   },
   {
-    src:  ('images/6.png'),
+    src: ('images/6.png'),
     altText: '',
     caption: ''
   },
   {
-    src:  ('images/7.png'),
+    src: ('images/7.png'),
     altText: '',
     caption: ''
   },
   {
-    src:  ('images/8.png'),
+    src: ('images/8.png'),
     altText: '',
     caption: ''
   },
   {
-    src:  ('images/9.png'),
+    src: ('images/9.png'),
     altText: '',
     caption: ''
   },
   {
-    src:  ('images/10.png'),
+    src: ('images/10.png'),
     altText: '',
     caption: ''
   },
   {
-    src:  ('images/11.png'),
+    src: ('images/11.png'),
     altText: '',
     caption: ''
   },
   {
-    src:  ('images/12.png'),
+    src: ('images/12.png'),
     altText: '',
     caption: ''
   },
   {
-    src:  ('images/13.png'),
+    src: ('images/13.png'),
     altText: '',
     caption: ''
   },
   {
-    src:  ('images/14.png'),
+    src: ('images/14.png'),
     altText: '',
     caption: ''
   },
   {
-    src:  ('images/17.png'),
+    src: ('images/17.png'),
     altText: '',
     caption: ''
   },
   {
-    src:  ('images/18.png'),
+    src: ('images/18.png'),
     altText: '',
     caption: ''
   },
   {
-    src:  ('images/19.png'),
+    src: ('images/19.png'),
     altText: '',
     caption: ''
   },
   {
-    src:  ('images/20.png'),
+    src: ('images/20.png'),
     altText: '',
     caption: ''
   },
   {
-    src:  ('images/21.png'),
+    src: ('images/21.png'),
     altText: '',
     caption: ''
   },
   {
-    src:  ('images/22.png'),
+    src: ('images/22.png'),
     altText: '',
     caption: ''
   },
   {
-    src:  ('images/23.png'),
+    src: ('images/23.png'),
     altText: '',
     caption: ''
   },
   {
-    src:  ('images/24.png'),
+    src: ('images/24.png'),
     altText: '',
     caption: ''
   }
- 
+
 ];
 
-const Galery= (props) => {
+const Galery = (props) => {
   const [activeIndex, setActiveIndex] = useState(0);
   const [animating, setAnimating] = useState(false);
   const next = () => {
@@ -151,7 +155,7 @@ const Galery= (props) => {
         onExited={() => setAnimating(false)}
         key={item.src}
       >
-        <img classname= 'portfolio' src={item.src} alt={item.altText} width = '100%' height ='20% ' align="center" />
+        <img classname='portfolio' src={item.src} alt={item.altText} width='100%' height='20% ' align="center" />
         <CarouselCaption captionText={item.caption} captionHeader={item.caption} />
       </CarouselItem>
     );
