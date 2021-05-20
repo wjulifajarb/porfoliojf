@@ -36,7 +36,7 @@ export default class About extends Component {
 
                 <div className="desc">
                     <h3>Web Development </h3>
-                    <p>I have experience building websites, App using and web systems using programming languages (HTML, CSS, JavaScript, Node.js, React, PHP and others).</p>
+                    <p>I have experience building websites, App using and web systems using programming languages (HTML5, CSS3, JavaScript, Node.js, React, PHP, Laravel, Tailwind and others).</p>
                 </div>
                 </div>
             </div>

@@ -6,6 +6,65 @@ export default class Timeline extends Component {
 
       
       <div>
+         <section className="colorlib-experience" data-section="timeline">
+          <div className="colorlib-narrow-content">
+            <div className="row">
+              <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
+                <span className="heading-meta">Featured Projects</span>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-md-12">
+                <div className="timeline-centered">
+
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-1">
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Rente House Armenia </h2>
+                        <p><a className="" href="http://proyectocasas.programate.tech/" target="_blank" rel="noopener noreferrer">Web application to publish houses for rent with their characteristics and to be able to rent them with the implementation of a payment gateway Development with PHP</a></p>
+                      </div>
+                    </div>
+                  </article>
+
+
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                      </div>
+                      <div className="timeline-label">
+                      <h2>Vinos San Paola </h2>
+                        <p><a className="" href="http://vinos.colantenas.com/blog/" target="_blank" rel="noopener noreferrer">Virtual store for wines with payment gateway implemented in wordpress with category, value and type filters</a></p>
+                      </div>
+                    </div>
+                  </article>
+
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">git 
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Design, advertising</h2>
+                        <p>Corel draw, Corel painter, Corel AfterShot krita, and advanced adobe illustration, photoshop package.</p>
+                      </div>
+                    </div>
+                  </article>
+
+               
+
+                  <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-none">
+                      </div>
+                    </div>
+                  </article>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
         <section className="colorlib-experience" data-section="timeline">
           <div className="colorlib-narrow-content">
             <div className="row">
