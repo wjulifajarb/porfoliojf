@@ -22,7 +22,7 @@ export default class Sidebar extends Component {
                   <li><a href="#timeline" data-nav-section="timeline">Timeline</a></li>
                 </ul>
               </div>
-              <p><a className="" href="https://drive.google.com/drive/folders/1whqEyW9WqtdrkuyR8tEhW3rtkhQRBVBz?usp=sharing" target="_blank" rel="noopener noreferrer"> ViewCV</a></p>
+              <p><a className="" href="https://drive.google.com/drive/folders/1whqEyW9WqtdrkuyR8tEhW3rtkhQRBVBz" target="_blank" rel="noopener noreferrer"> ViewCV</a></p>
               <p><a className="" href="https://github.com/wjulifajarb?tab=repositories" target="_blank" rel="noopener noreferrer">GitHub</a></p>
               <p><a className="" href="https://www.linkedin.com/in/julianafajardo/" target="_blank" rel="noopener noreferrer">LinkedIN</a></p>
             </nav>
