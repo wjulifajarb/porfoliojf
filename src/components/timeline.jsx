@@ -278,7 +278,7 @@ export default class Timeline extends Component {
 
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-2">
+                      <div className="timeline-icon color-2">git 
                       </div>
                       <div className="timeline-label">
                         <h2>Design, advertising</h2>

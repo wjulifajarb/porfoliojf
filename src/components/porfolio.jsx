@@ -17,103 +17,108 @@ const items = [
   },
   {
     src: ('images/2.png'),
-    altText: 'Slide 1',
-    caption: 'Slide 2'
+    altText: '',
+    caption: ''
   },
   {
     src:  ('images/3.png'),
-    altText: 'Slide 1',
-    caption: 'Slide 3'
+    altText: '',
+    caption: ''
   },
   {
     src:  ('images/1.png'),
-    altText: 'Slide 1',
-    caption: 'Slide 3'
+    altText: '',
+    caption: ''
   },
   {
     src:  ('images/5.png'),
-    altText: 'Slide 1',
-    caption: 'Slide 3'
+    altText: '',
+    caption: ''
   },
   {
     src:  ('images/6.png'),
-    altText: 'Slide 1',
-    caption: 'Slide 3'
+    altText: '',
+    caption: ''
   },
   {
     src:  ('images/7.png'),
-    altText: 'Slide 1',
-    caption: 'Slide 3'
+    altText: '',
+    caption: ''
   },
   {
     src:  ('images/8.png'),
-    altText: 'Slide 1',
-    caption: 'Slide 3'
+    altText: '',
+    caption: ''
   },
   {
     src:  ('images/9.png'),
-    altText: 'Slide 1',
-    caption: 'Slide 3'
+    altText: '',
+    caption: ''
   },
   {
     src:  ('images/10.png'),
-    altText: 'Slide 1',
-    caption: 'Slide 3'
+    altText: '',
+    caption: ''
   },
   {
     src:  ('images/11.png'),
-    altText: 'Slide 1',
-    caption: 'Slide 3'
+    altText: '',
+    caption: ''
   },
   {
     src:  ('images/12.png'),
-    altText: 'Slide 1',
-    caption: 'Slide 3'
+    altText: '',
+    caption: ''
   },
   {
     src:  ('images/13.png'),
-    altText: 'Slide 1',
-    caption: 'Slide 3'
+    altText: '',
+    caption: ''
   },
   {
     src:  ('images/14.png'),
-    altText: 'Slide 1',
-    caption: 'Slide 3'
+    altText: '',
+    caption: ''
   },
   {
     src:  ('images/17.png'),
-    altText: 'Slide 1',
-    caption: 'Slide 3'
+    altText: '',
+    caption: ''
   },
   {
     src:  ('images/18.png'),
-    altText: 'Slide 1',
-    caption: 'Slide 3'
+    altText: '',
+    caption: ''
   },
   {
     src:  ('images/19.png'),
-    altText: 'Slide 1',
-    caption: 'Slide 3'
+    altText: '',
+    caption: ''
   },
   {
     src:  ('images/20.png'),
-    altText: 'Slide 1',
-    caption: 'Slide 3'
+    altText: '',
+    caption: ''
   },
   {
     src:  ('images/21.png'),
-    altText: 'Slide 1',
-    caption: 'Slide 3'
+    altText: '',
+    caption: ''
   },
   {
     src:  ('images/22.png'),
-    altText: 'Slide 1',
-    caption: 'Slide 3'
+    altText: '',
+    caption: ''
   },
   {
     src:  ('images/23.png'),
-    altText: 'Slide 1',
-    caption: 'Slide 3'
+    altText: '',
+    caption: ''
+  }
+  {
+    src:  ('images/24.png'),
+    altText: '',
+    caption: ''
   }
  
 ];
