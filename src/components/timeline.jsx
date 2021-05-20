@@ -78,7 +78,7 @@ export default class Timeline extends Component {
                       <div className="timeline-icon color-5">
                       </div>
                       <div className="timeline-label">
-                        <h2>Github Porfile</h2>
+                        <h2>Github Profile</h2>
                         <p><a className="" href="https://wjulifajarb.github.io/Reto25-/" target="_blank" rel="noopener noreferrer">Profile search page in GIT</a></p>
                       </div>
                     </div>
@@ -364,7 +364,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Microsoft Office</h2>
-                        <p> WORD, EXCEL, POWERPOINT, PUBLISHER and in general all programs microsoft Programs</p>
+                        <p> WORD, EXCEL, POWERPOINT, PUBLISHER</p>
                       </div>
                     </div>
                   </article>

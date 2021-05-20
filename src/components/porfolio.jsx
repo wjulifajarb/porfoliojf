@@ -9,6 +9,7 @@ import {
 import 'bootstrap/dist/css/bootstrap.min.css'
 
 const items = [
+  
   {
     src: ('images/16.png'),
     altText: '',

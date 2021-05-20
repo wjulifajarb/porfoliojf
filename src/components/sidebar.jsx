@@ -30,7 +30,7 @@ export default class Sidebar extends Component {
             
             <div className="colorlib-footer">
               <p><small>Made with love and inspiration</small></p>
-              <p><small>¡Suelta y Confía!</small></p>
+              <p><small>¡Loose and Trust!</small></p>
             </div>
           </aside>
         </div>
