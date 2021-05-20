@@ -4,9 +4,9 @@ export default class Timeline extends Component {
   render() {
     return (
 
-      
+
       <div>
-         <section className="colorlib-experience" data-section="timeline">
+        <section className="colorlib-experience" data-section="timeline">
           <div className="colorlib-narrow-content">
             <div className="row">
               <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
@@ -34,7 +34,7 @@ export default class Timeline extends Component {
                       <div className="timeline-icon color-5">
                       </div>
                       <div className="timeline-label">
-                      <h2>Vinos San Paola </h2>
+                        <h2>Vinos San Paola </h2>
                         <p><a className="" href="http://vinos.colantenas.com/blog/" target="_blank" rel="noopener noreferrer">Virtual store for wines with payment gateway implemented in wordpress with category, value and type filters</a></p>
                       </div>
                     </div>
@@ -42,16 +42,50 @@ export default class Timeline extends Component {
 
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-2">git 
+                      <div className="timeline-icon color-6">
                       </div>
                       <div className="timeline-label">
-                        <h2>Design, advertising</h2>
-                        <p>Corel draw, Corel painter, Corel AfterShot krita, and advanced adobe illustration, photoshop package.</p>
+                        <h2>25 Retos </h2>
+                        <p><a className="" href="https://wjulifajarb.github.io/RetosCJF/" target="_blank" rel="noopener noreferrer">25 remnants of HTML, CSS and Javascript developed and compiled into a cute landinpage</a></p>
                       </div>
                     </div>
                   </article>
 
-               
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Rotary nav </h2>
+                        <p><a className="" href="https://wjulifajarb.github.io/Reto-3/" target="_blank" rel="noopener noreferrer">Responsive website with animated menu</a></p>
+                      </div>
+                    </div>
+                  </article>
+
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-2">
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Pokedex</h2>
+                        <p><a className="" href="https://wjulifajarb.github.io/Reto19/" target="_blank" rel="noopener noreferrer">Page where an API is consumed to obtain all the pokemons</a></p>
+                      </div>
+                    </div>
+                  </article>
+
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Github Porfile</h2>
+                        <p><a className="" href="https://wjulifajarb.github.io/Reto25-/" target="_blank" rel="noopener noreferrer">Profile search page in GIT</a></p>
+                      </div>
+                    </div>
+                  </article>
+
+
+
 
                   <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
                     <div className="timeline-entry-inner">
@@ -220,7 +254,7 @@ export default class Timeline extends Component {
               <div className="col-md-12">
                 <div className="timeline-centered">
 
-                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-1">
                       </div>
@@ -245,8 +279,8 @@ export default class Timeline extends Component {
 
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-5"
-                      </div>
+                      <div className="timeline-icon color-5"></div>
+                      
                       <div className="timeline-label">
                         <h2>2018 <span>INCAP</span></h2>
                         <p>Technical program in graphic and advertising design GRADUATE</p>
@@ -261,7 +295,7 @@ export default class Timeline extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>2016 <span> Google Activate, Sena and Miriadax</span></h2>
-                        <p>Adobe and Core Draw Package, development of web pages, applications and digital marketing, 
+                        <p>Adobe and Core Draw Package, development of web pages, applications and digital marketing,
                           Education and museums The emphasis of art Latin American in Colombia 5th edition</p>
                       </div>
                     </div>
@@ -337,7 +371,7 @@ export default class Timeline extends Component {
 
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-2">git 
+                      <div className="timeline-icon color-2">
                       </div>
                       <div className="timeline-label">
                         <h2>Design, advertising</h2>
@@ -346,7 +380,7 @@ export default class Timeline extends Component {
                     </div>
                   </article>
 
-               
+
 
                   <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
                     <div className="timeline-entry-inner">

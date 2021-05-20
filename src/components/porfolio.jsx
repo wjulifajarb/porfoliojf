@@ -11,8 +11,8 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 const items = [
   {
     src: ('images/16.png'),
-    
-    caption: 'Backgroundsiledr',
+    altText: '',
+    caption: ''
     
   },
   {
@@ -114,7 +114,7 @@ const items = [
     src:  ('images/23.png'),
     altText: '',
     caption: ''
-  }
+  },
   {
     src:  ('images/24.png'),
     altText: '',

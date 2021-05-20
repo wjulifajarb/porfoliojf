@@ -26,7 +26,7 @@ export default class Sidebar extends Component {
               <p><a className="" href="https://github.com/wjulifajarb?tab=repositories" target="_blank" rel="noopener noreferrer">GitHub</a></p>
               <p><a className="" href="https://www.linkedin.com/in/julianafajardo/" target="_blank" rel="noopener noreferrer">LinkedIN</a></p>
             </nav>
-            <p><small>¡!</small></p>
+           
             
             <div className="colorlib-footer">
               <p><small>Made with love and inspiration</small></p>
