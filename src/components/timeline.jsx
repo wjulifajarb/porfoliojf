@@ -21,7 +21,6 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-1">
-                        <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>2020 - Actually <span>Nimbly Technologies</span></h2>
@@ -34,7 +33,6 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-5">
-                        <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>2019 - 2018 <span>National Corporation for Innovation and Development EUREKAPP</span></h2>
@@ -46,7 +44,6 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-2">
-                        <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>2018 <span>Marie de la Roche</span></h2>
@@ -58,7 +55,6 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
-                        <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>2017 <span>National Corporation of Libraries for Research and Developmen</span></h2>
@@ -70,7 +66,6 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
-                        <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>2016 <span>Corporación Politécnica Nacional de Colombia</span></h2>
@@ -84,7 +79,6 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-5">
-                        <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>2015 <span>Topography of deep wells groundwater LTDA </span></h2>
@@ -96,7 +90,6 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-1">
-                        <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>2015 <span>House Museum July 8 </span></h2>
@@ -110,7 +103,6 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-2">
-                        <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>2014 - 2013 <span>DEINSA S.A.S </span></h2>
@@ -122,7 +114,6 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
-                        <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>2012 - 2011 <span>Freelancing </span></h2>
@@ -137,7 +128,6 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
-                        <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>2011 - 2009 <span>Volunteering </span></h2>
@@ -174,7 +164,6 @@ export default class Timeline extends Component {
                 <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-1">
-                        <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>2020 - Actually <span> Foundation EducaMás</span></h2>
@@ -186,7 +175,6 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-1">
-                        <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>2019 - Actually <span>UNAD</span></h2>
@@ -198,8 +186,7 @@ export default class Timeline extends Component {
 
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-5">
-                        <i className="icon-pen2" />
+                      <div className="timeline-icon color-5"
                       </div>
                       <div className="timeline-label">
                         <h2>2018 <span>INCAP</span></h2>
@@ -224,7 +211,6 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
-                        <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>2015 - 2010 <span>Humana, University of Spain (UNED) and Sena</span></h2>
@@ -236,7 +222,6 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-4">
-                        <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>2010 <span>Nicolas Copernico</span></h2>
@@ -271,7 +256,6 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-1">
-                        <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>Languages</h2>
@@ -284,7 +268,6 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-5">
-                        <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>Microsoft Office</h2>
@@ -296,7 +279,6 @@ export default class Timeline extends Component {
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-2">
-                        <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
                         <h2>Design, advertising</h2>
