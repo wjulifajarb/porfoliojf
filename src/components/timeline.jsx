@@ -84,6 +84,18 @@ export default class Timeline extends Component {
                     </div>
                   </article>
 
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInTop">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-5">
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Pizza Jr</h2>
+                        <p><a className="" href="https://pizzajr.netlify.app/" target="_blank" rel="noopener noreferrer">This web app is very important because it was developed with the idea of helping a local business during the covid pandemic and it was a donation
+It is still in improvements but you can place the orders of all the products of the pizzeria through the app that links to whatsapp</a></p>
+                      </div>
+                    </div>
+                  </article>
+
 
 
 

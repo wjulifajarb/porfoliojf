@@ -7,63 +7,50 @@ import {
   CarouselCaption
 } from 'reactstrap';
 import 'bootstrap/dist/css/bootstrap.min.css'
-<div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-  <span className="heading-meta">My Work</span>
-  <h2 className="colorlib-heading animate-box">Some of my projectss</h2>
-</div>
+
 
 const items = [
 
   {
     src: ('images/16.png'),
-    altText: '',
-    caption: ''
+    altText: ''
 
   },
   {
     src: ('images/2.png'),
-    altText: '',
-    caption: ''
+    altText: ''
   },
   {
     src: ('images/3.png'),
-    altText: '',
-    caption: ''
+    altText: ''
   },
   {
     src: ('images/1.png'),
-    altText: '',
-    caption: ''
+    altText: ''
   },
   {
     src: ('images/5.png'),
-    altText: '',
-    caption: ''
+    altText: ''
   },
   {
     src: ('images/6.png'),
-    altText: '',
-    caption: ''
+    altText: ''
   },
   {
     src: ('images/7.png'),
-    altText: '',
-    caption: ''
+    altText: ''
   },
   {
     src: ('images/8.png'),
-    altText: '',
-    caption: ''
+    altText: ''
   },
   {
     src: ('images/9.png'),
-    altText: '',
-    caption: ''
+    altText: ''
   },
   {
     src: ('images/10.png'),
-    altText: '',
-    caption: ''
+    altText: ''
   },
   {
     src: ('images/11.png'),
@@ -72,58 +59,48 @@ const items = [
   },
   {
     src: ('images/12.png'),
-    altText: '',
-    caption: ''
+    altText: ''
   },
   {
     src: ('images/13.png'),
-    altText: '',
-    caption: ''
+    altText: ''
   },
   {
     src: ('images/14.png'),
-    altText: '',
-    caption: ''
+    altText: ''
   },
   {
     src: ('images/17.png'),
-    altText: '',
-    caption: ''
+    altText: ''
   },
   {
     src: ('images/18.png'),
-    altText: '',
-    caption: ''
+    altText: ''
   },
   {
     src: ('images/19.png'),
-    altText: '',
-    caption: ''
+    altText: ''
   },
   {
     src: ('images/20.png'),
-    altText: '',
-    caption: ''
+    altText: ''
   },
   {
     src: ('images/21.png'),
-    altText: '',
-    caption: ''
+    altText: ''
   },
   {
     src: ('images/22.png'),
-    altText: '',
-    caption: ''
+    altText: ''
   },
   {
     src: ('images/23.png'),
-    altText: '',
-    caption: ''
+    altText: ''
+    
   },
   {
     src: ('images/24.png'),
-    altText: '',
-    caption: ''
+    altText: ''
   }
 
 ];
